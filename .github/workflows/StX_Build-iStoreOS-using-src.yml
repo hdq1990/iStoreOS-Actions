@@ -1,6 +1,5 @@
 name: 💿 StX_Build-iStoreOS-using-src
 on:
-  repository_dispatch:
   workflow_dispatch:
     inputs:
       openwrt_board:
